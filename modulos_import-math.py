@@ -18,11 +18,3 @@ s = math.sin(n3)
 c = math.cos(n3)
 t = math.tan(n3)
 print('O seno de {} é {:.2f}, o coseno é {:.2f} e a tangente é {:.2f}.'.format(n3, (s), (c), (t)))
-#sorteia um nome
-import random
-a1 = str(input('Digite o nome do 1o aluno: '))
-a2 = str(input('Digite o nome do 2o aluno: '))
-a3 = str(input('Digite o nome do 3o aluno: '))
-a4 = str(input('Digite o nome do 4o aluno: '))
-a5 = str(input('Digite o nome do 5o aluno: '))
-print('O aluno {} foi escolhido para apagar a lousa.'.format())
