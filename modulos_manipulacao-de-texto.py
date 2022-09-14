@@ -27,3 +27,5 @@ print(n.replace('rei', 'imperador'))
 print(n.strip())
 print(n.rstrip())
 print(n.lstrip())
+#separa a seq. em listas
+print(n.split())
