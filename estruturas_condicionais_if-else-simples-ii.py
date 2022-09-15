@@ -1,3 +1,4 @@
+#Jogo simples de adivinhação
 import random
 print('Vou pensar em um número entre 0 e 5. Tente adivinhá-lo.')
 list = [0, 1, 2, 3, 4, 5]

@@ -1,3 +1,4 @@
+#Simula um radar de velocidade, informando se o veículo ultrapassou a máxima permitida e quanto ficou a multa
 print('#######RADAR DE VELOCIDADE#######')
 vmax = int(80+(20/100*80))
 multa = float(7.00)
