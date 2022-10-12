@@ -1,0 +1,273 @@
+index: 174
+payload: CVS/
+url: http://testphp.vulnweb.com/CVS/
+method: GET
+RTT: 0.294258
+requestTime: 0.000768
+responseTime: 0.29349
+status: 200
+length: 595
+words: 31
+lines: 10
+redirected: 
+
+index: 297
+payload: .idea/misc.xml
+url: http://testphp.vulnweb.com/.idea/misc.xml
+method: GET
+RTT: 0.203759
+requestTime: 0.000293
+responseTime: 0.203466
+status: 200
+length: 266
+words: 14
+lines: 8
+redirected: 
+
+index: 720
+payload: .idea/workspace.xml
+url: http://testphp.vulnweb.com/.idea/workspace.xml
+method: GET
+RTT: 0.21319
+requestTime: 0.000864
+responseTime: 0.212326
+status: 200
+length: 12473
+words: 774
+lines: 216
+redirected: 
+
+index: 871
+payload: login.php
+url: http://testphp.vulnweb.com/login.php
+method: GET
+RTT: 0.204135
+requestTime: 0.000231
+responseTime: 0.203904
+status: 200
+length: 5523
+words: 432
+lines: 119
+redirected: 
+
+index: 1028
+payload: .idea
+url: http://testphp.vulnweb.com/.idea
+method: GET
+RTT: 0.207688
+requestTime: 0.00063
+responseTime: 0.207058
+status: 301
+length: 169
+words: 11
+lines: 7
+redirected: http://testphp.vulnweb.com/.idea/
+
+index: 1295
+payload: index.php
+url: http://testphp.vulnweb.com/index.php
+method: GET
+RTT: 0.464746
+requestTime: 0.012672
+responseTime: 0.452074
+status: 200
+length: 4958
+words: 388
+lines: 109
+redirected: 
+
+index: 1598
+payload: admin
+url: http://testphp.vulnweb.com/admin
+method: GET
+RTT: 0.212667
+requestTime: 0.002645
+responseTime: 0.210022
+status: 301
+length: 169
+words: 11
+lines: 7
+redirected: http://testphp.vulnweb.com/admin/
+
+index: 1768
+payload: CVS/Entries
+url: http://testphp.vulnweb.com/CVS/Entries
+method: GET
+RTT: 0.204995
+requestTime: 0.000202
+responseTime: 0.204793
+status: 200
+length: 1
+words: 0
+lines: 0
+redirected: 
+
+index: 1980
+payload: .idea/modules.xml
+url: http://testphp.vulnweb.com/.idea/modules.xml
+method: GET
+RTT: 0.213875
+requestTime: 0.000237
+responseTime: 0.213638
+status: 200
+length: 275
+words: 15
+lines: 9
+redirected: 
+
+index: 2854
+payload: cgi-bin/
+url: http://testphp.vulnweb.com/cgi-bin/
+method: GET
+RTT: 0.203745
+requestTime: 0.000213
+responseTime: 0.203532
+status: 403
+length: 276
+words: 28
+lines: 9
+redirected: 
+
+index: 2985
+payload: images/
+url: http://testphp.vulnweb.com/images/
+method: GET
+RTT: 0.20671
+requestTime: 0.001047
+responseTime: 0.205663
+status: 200
+length: 377
+words: 21
+lines: 8
+redirected: 
+
+index: 3392
+payload: index.zip
+url: http://testphp.vulnweb.com/index.zip
+method: GET
+RTT: 0.20321
+requestTime: 0.000279
+responseTime: 0.202931
+status: 200
+length: 2586
+words: 55
+lines: 1
+redirected: 
+
+index: 3431
+payload: admin/
+url: http://testphp.vulnweb.com/admin/
+method: GET
+RTT: 0.211811
+requestTime: 0.000216
+responseTime: 0.211595
+status: 200
+length: 262
+words: 16
+lines: 7
+redirected: 
+
+index: 3493
+payload: _mmServerScripts/MMHTTPDB.php
+url: http://testphp.vulnweb.com/_mmServerScripts/MMHTTPDB.php
+method: GET
+RTT: 0.230784
+requestTime: 0.000213
+responseTime: 0.230571
+status: 200
+length: 93
+words: 4
+lines: 0
+redirected: 
+
+index: 3567
+payload: CVS/Root
+url: http://testphp.vulnweb.com/CVS/Root
+method: GET
+RTT: 0.203574
+requestTime: 0.000171
+responseTime: 0.203403
+status: 200
+length: 1
+words: 0
+lines: 0
+redirected: 
+
+index: 3581
+payload: _mmServerScripts/
+url: http://testphp.vulnweb.com/_mmServerScripts/
+method: GET
+RTT: 0.211653
+requestTime: 0.000408
+responseTime: 0.211245
+status: 200
+length: 400
+words: 21
+lines: 8
+redirected: 
+
+index: 3651
+payload: .idea/encodings.xml
+url: http://testphp.vulnweb.com/.idea/encodings.xml
+method: GET
+RTT: 0.523132
+requestTime: 0.000213
+responseTime: 0.522919
+status: 200
+length: 171
+words: 11
+lines: 5
+redirected: 
+
+index: 3671
+payload: .idea/vcs.xml
+url: http://testphp.vulnweb.com/.idea/vcs.xml
+method: GET
+RTT: 0.209236
+requestTime: 0.000212
+responseTime: 0.209024
+status: 200
+length: 173
+words: 13
+lines: 7
+redirected: 
+
+index: 3742
+payload: .idea/
+url: http://testphp.vulnweb.com/.idea/
+method: GET
+RTT: 0.217682
+requestTime: 0.001491
+responseTime: 0.216191
+status: 200
+length: 951
+words: 46
+lines: 13
+redirected: 
+
+index: 3762
+payload: .idea/scopes/scope_settings.xml
+url: http://testphp.vulnweb.com/.idea/scopes/scope_settings.xml
+method: GET
+RTT: 0.285715
+requestTime: 0.082286
+responseTime: 0.203429
+status: 200
+length: 143
+words: 9
+lines: 4
+redirected: 
+
+index: 3987
+payload: .idea/.name
+url: http://testphp.vulnweb.com/.idea/.name
+method: GET
+RTT: 0.202686
+requestTime: 0.000169
+responseTime: 0.202517
+status: 200
+length: 6
+words: 1
+lines: 0
+redirected: 
+
