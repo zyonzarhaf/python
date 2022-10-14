@@ -1,7 +1,7 @@
 n = str(input('Digite uma frase: '))
 #mostra caracteres dentro de um determinado range
-print(n[1:7])
-print(n[1:7:2])
+print(n[0:7])
+print(n[0:7:2])
 print(n[1::2])
 print(n[:5])
 print(n[3:])
@@ -26,7 +26,7 @@ print(n.title())
 print(n.lower())
 #troca uma str por outra
 print(n.replace('a', 'b'))
-#remove espaços "inuteis"
+#remove caracteres
 print(n.strip())
 print(n.rstrip())
 print(n.lstrip())

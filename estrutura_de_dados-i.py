@@ -15,9 +15,11 @@ print(listaSduplicados)
 listaSduplicados = set([1, 1, 2, 2, 3, 3, 4, 4, 5, 5])
 print(listaSduplicados)
 
-dicionario = {'a': 1, 'b': 2}
+###dicionarios sao estruturas compostas de chaves e valores -- tb podem ser dividas em items, sendo q cada item é uma 'chave':valor
+
+dicionario = {'a': 1, 'b': 2}   ###cria um dict com duas chaves ('a' e 'b', com os valores 1 e 2, respectivamente --nesse caso sao numeros, mas normalmente utilizam-se strings)
 print(dicionario)
-dicionario['c'] = 3              ###adiciona um valor e uma posição
+dicionario['c'] = 3              ###adiciona uma chave e um valor associado
 print(dicionario)
 del dicionario['c']
-print(dicionario)                ###deleta uma posicao
+print(dicionario)                ###deleta uma chave
