@@ -1,7 +1,6 @@
 c = 3
 t1 = 0
 t2 = 1
-t3 = 0
 
 print('{:#^40}'.format('Sequência Fibonacci'))
 print('=-'*20)

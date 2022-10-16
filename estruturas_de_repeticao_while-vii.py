@@ -1,4 +1,5 @@
-n = s = qtd_n = 0
+s = 0
+qtd_n = 0
 
 while True:
     n = int(input('Digite alguns valores numéricos (999 para parar): '))

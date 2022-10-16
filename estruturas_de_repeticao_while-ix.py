@@ -1,6 +1,9 @@
-masc = mai18 = fem20menor = 0
+masc = 0
+mai18 = 0
+fem20menor = 0
 
 while True:
+    continuar = ' '
     print('#'*20)
     print('CADASTRE UMA PESSOA')
     print('#'*20)
@@ -13,8 +16,9 @@ while True:
         masc = masc + 1
     if s =='F' and i < 20:
         fem20menor = fem20menor + 1
-    resp = str(input('Cadastro realizado! Deseja continuar? [S/N]')).strip().upper()[0]
-    if resp == 'N':
+    while continuar not in 'SN':
+        continuar = str(input('Cadastro realizado! Deseja continuar? [S/N] ')).strip().upper()[0]
+    if continuar == 'N':
         break
-print(f'{mai18} pessoas com mais de 18 anos, {masc} homens e {fem20menor} mulheres com menos de 20 anos foram cadastradas.')
+print(f'Total de pessoas com mais de 18 anos cadastradas: {mai18}.\nTotal de homens cadastrados: {masc}.\nTotal de mulheres com menos de 20 anos cadastradas: {fem20menor}.')
 print('{:#^40}'.format('FIM!')) 

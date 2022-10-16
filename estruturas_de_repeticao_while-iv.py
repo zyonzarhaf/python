@@ -1,7 +1,7 @@
 n = int(input('Digite um número qualquer: '))
 c = n
 f = 1
-print('{}! ='.format(n), end=' ')
+print('{}! = {}'.format(n, c), end=' X ')
 while c > 1:
     f = f * c
     c = c - 1

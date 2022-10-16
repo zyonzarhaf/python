@@ -2,7 +2,7 @@
 import random
 
 chutes = 0
-print('Vou pensar em um número entre 0 e 10. Tente adivinhá-lo.')
+print('Vou pensar em um número de 1 a 10. Tente adivinhá-lo.')
 list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 escolha = random.choice(list)
 resposta = int(input('Qual número eu escolhi? '))
