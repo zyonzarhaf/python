@@ -1,0 +1,9 @@
+variavel simples       #variavel composta
+simples = 1            #composta = 1, 2, 3, 4    ---> tuplas (são imutáveis: uma tupla permanece a mesma do inicio até o fim do programa. Aceitam dados de tipos diferentes.)
+                                                        tupla = (1, 2, 3, 4)
+
+                                                 ---> dicionarios
+                                                        dict = ['a', 'b', 'c']
+
+                                                 ---> listas
+Os elementos são identificados por indices: indice 0 = 1, indice 1 = 2, indice 2 = 3, etc. Str tb são variaveis compostas e seguem a mesma logica quando passam pelo fatiamento.

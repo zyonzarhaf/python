@@ -1,0 +1,21 @@
+#Simulador de caixa eletrônico
+
+saque = int(input('Informe o valor do saque: '))
+while saque > 1500:
+    saque = int(input('O valor mais alto permitido é $1500,00. Informe outro valor: '))
+qtd100 = int(saque / 100)
+saque = saque - (qtd100*100)
+qtd50 = int(saque / 50)
+saque = saque - (qtd50*50)
+qtd20= int(saque / 20)
+saque = saque - (qtd20*20)
+qtd10 = int(saque / 10)
+saque = saque - (qtd10*10)
+qtd1 = int(saque/1)
+saque = saque - (qtd1*10)
+print(f'Notas de $100,00: {qtd100}')
+print(f'Notas de $50,00: {qtd50}')
+print(f'Notas de $20,00: {qtd20}')
+print(f'Notas de $10,00: {qtd10}')
+print(f'Notas de $1,00: {qtd1}')
+print('{:#^40}'.format('Operação realizada com sucesso'))
