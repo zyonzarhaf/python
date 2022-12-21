@@ -4,7 +4,7 @@ lista.append(5) #adiciona o elemento 5 a lista
 print(lista)
 lista.insert(4, 0) #adiciona o elemento 0 na posicao indicada (0 = elemento, 4 = posicao)
 print(lista)
-lista[3] = 2 #substitui o elemento 3 na posicao 3 pelo elemento 2
+lista[3] = 2 #substitui o elemento 3 pelo elemento 2
 print(lista)
 
 ############eliminar elementos
@@ -19,7 +19,7 @@ print(list)
 del lista[0]
 print(lista)
 
-#######criar listas atraves de ranges
+#######criar lista com range
 lista = list(range(1,11))
 print(lista)
 
@@ -31,5 +31,5 @@ set(lista) ###remove duplicados da lista
 
 ###copia de listas
 a = [1, 2, 3, 4, 5]
-b = a[:] #pega todos os elementos de a. Do contrario nao seria uma copia e sim uma ligacao entre as duas listas.
+b = a[:] #pega todos os elementos de a.
 print(a, b)
